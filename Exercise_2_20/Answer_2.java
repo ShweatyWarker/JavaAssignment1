@@ -1,11 +1,11 @@
-package Exercise2_20;
+package Exercise_2_20;
 
 // This program prints a right-angled triangle pattern using asterisks.
 // Each System.out.println() prints a line of asterisks and moves the cursor to a new line.
 // This creates a symmetric-ish pattern, starting small, peaking at 5 asterisks, then shrinking.
 // You can think of it visually as a "mountain peak" pattern.
 
-public class Exercise2_20 {
+public class Answer_2 {
 	public static void main(String[] args) {
 		System.out.println("*");
 		System.out.println("***");

@@ -1,6 +1,6 @@
-package Exercise2_18;
+package Exercise_2_18;
 
-public class Exercise2_18 {
+public class Answer_1 {
 	public static void main(String[] args) {
 		System.out.printf("*%n**%n***%n****%n*****%n");
 	}
