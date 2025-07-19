@@ -1,4 +1,4 @@
-package Exercise_2_20;
+package EX_2_20;
 
 // This program prints a right-angled triangle pattern using asterisks.
 // Each System.out.println() prints a line of asterisks and moves the cursor to a new line.
