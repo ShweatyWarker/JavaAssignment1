@@ -1,7 +1,7 @@
 package Exercise_2_16;
 
 import java.util.Scanner;
-public class ComparingIntegers {
+public class Answer_4 {
     public static void main(String[] args) {
         // Create Scanner object to read input from user
         Scanner input = new Scanner(System.in);
