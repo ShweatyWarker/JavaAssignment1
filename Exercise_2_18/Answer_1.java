@@ -19,3 +19,5 @@ public class Answer_1 {
 // The first line has one asterisk, the second line has two, and so on, up to five asterisks in the last line.
 // This is a simple example of using loops and formatted output in Java to create a visual pattern.
 // The program demonstrates basic string formatting and output in Java.
+
+//Description from Lucy, I asked her to summarize my actions so I can understand what I did at a glimpse.
